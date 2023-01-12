@@ -14,6 +14,8 @@ Provide world class support to customers on the GitHub platform
 
 ## Skills
 
+React/NodeJS/MySQL
+
 ### Education
 
 Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
